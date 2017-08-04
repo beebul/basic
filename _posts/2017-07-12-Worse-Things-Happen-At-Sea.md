@@ -1,6 +1,6 @@
 ---
 title: "Worse Things Happen At Sea"
-image: ../assets/images/headers/wthas-heading-1600x800.jpg
+image: /assets/images/headers/wthas-heading-1600x800.jpg
 subtitle: 'Avast ..not one for land-lubbers.'
 except: 'We are sailing...'
 excerpt_separator: "<!--more-->"
@@ -13,7 +13,7 @@ tags:
 
 Of the hundreds of Spectrum games I owned, this one stands out a little and I think this is due to the quirky nature of the gameplay and the odd name of the game.
 
-![Loading Screen]({{ site.url }}/assets/images/gameshots/wthas.gif){: .align-right}
+![Loading Screen](/assets/images/gameshots/wthas.gif){: .align-right}
 
 Released by **Silversoft Ltd** in 1984.
 
