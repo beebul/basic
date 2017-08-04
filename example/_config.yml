@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Basically Basic
+title: Basic
 email: dugan.nash@mailinator.com
 description: "Your new default Jekyll theme"
 baseurl: "/example"  # the subpath of your site, e.g. /blog
@@ -25,7 +25,8 @@ author:
   picture: https://api.adorable.io/avatars/285/johndoe.png
 twitter_username: Towlette_Pettetucci
 github_username: Towlette_Pettetucci
-logo: /assets/icons/basically-basic-logo-light.svg
+#logo: /assets/icons/basically-basic-logo-light.svg
+logo: /assets/icons/retroid_logo.svg
 
 # Build settings
 markdown: kramdown
