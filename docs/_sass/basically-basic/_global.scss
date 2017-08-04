@@ -10,7 +10,7 @@
   font-family: $base-font-family;
   font-weight: bold;
   line-height: 1;
-
+  
   @include breakpoint($medium) {
     padding-left: 2rem;
   }
@@ -27,6 +27,18 @@
     min-height: $site-image-height;
     color: $text-color;
     text-decoration: none;
+    
+    
+    letter-spacing: -4px;
+    text-decoration: none;
+    color: grey;
+    font-family: 'Stellar-Bold', $alt-font;
+    font-weight: 700;
+    //@include font-size(50, no);
+    line-height: .25 * $masthead-height; // half the height to center vertically
+    text-transform: uppercase;
+    text-shadow: -2px -2px 0 #ddd, 2px -2px 0 #333, -2px 2px 0 #ddd, 2px 2px 0 #ddd;
+    
   }
 }
 
