@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Welcome to the Bishop of Battle"
-image: /assets/images/009.jpg
+image: /assets/images/hero/b-of-b-glitched.png
 categories:
   - Layout
 tags:
