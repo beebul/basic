@@ -26,18 +26,17 @@
     align-items: center;
     min-height: $site-image-height;
     color: $text-color;
-    text-decoration: none;
+    text-decoration: none
     
-    
-    letter-spacing: -4px;
-    text-decoration: none;
-    color: grey;
-    font-family: 'Stellar-Bold', $alt-font;
-    font-weight: 700;
-    //@include font-size(50, no);
-    line-height: .25 * $masthead-height; // half the height to center vertically
-    text-transform: uppercase;
-    text-shadow: -2px -2px 0 #ddd, 2px -2px 0 #333, -2px 2px 0 #ddd, 2px 2px 0 #ddd;
+    // letter-spacing: -4px;
+    // text-decoration: none;
+    // color: grey;
+    // font-family: 'Stellar-Bold', $alt-font;
+    // font-weight: 700;
+    // //@include font-size(50, no);
+    // line-height: .25 * $masthead-height; // half the height to center vertically
+    // text-transform: uppercase;
+    // text-shadow: -2px -2px 0 #ddd, 2px -2px 0 #333, -2px 2px 0 #ddd, 2px 2px 0 #ddd;
     
   }
 }
@@ -45,6 +44,6 @@
 .site-logo {
   width: $site-image-width;
   height: $site-image-height;
-  margin-right: 55rem;
+  margin-right: 0.5rem;
   border-radius: 50%;
 }

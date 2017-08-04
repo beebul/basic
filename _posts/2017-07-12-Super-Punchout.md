@@ -1,25 +1,12 @@
 ---
-layout: review
-sidebar: left
-subheadline: A cartoon exterior hides a suprisingly technical and tricky fighter
-title:  "Super Punch-Out"
-teaser: "Fighters Ready...."
-breadcrumb: true
-tags:
-    - SNES, Nintendo
+title: "Super Punch-Out"
+excerpt_separator: "<!--more-->"
 categories:
-    - Reviews
-image: spo.jpg
-header:
-    title: Super Punch-Out
-    background-color: "#EFC94C;"
-    pattern: pattern_concrete.jpg
-    #image_fullwidth: worse-things-happen-at-sea.jpg
-    caption: This is a caption for the header image with link
-    #caption_url: https://unsplash.com/
-permalink: SNES/:title.html
+  - SNES
+tags:
+  - nintendo
+  - fighting
 ---
-
 A cartoon exterior hides a suprisingly technical and tricky fighter.
 
 Before I even owned it, my love for this game came from 2 sources.
